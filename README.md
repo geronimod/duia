@@ -1,2 +1,1 @@
-# duia
-Diplomatura Universitaria en Inteligencia Artificial
+# Diplomatura Universitaria en Inteligencia Artificial
